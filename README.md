@@ -5,7 +5,7 @@ desenvolvedor Full-Stack Flutter e criador de conteúdo de aprimoramento profiss
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanp79&hide=contribs,issues&count_private=true&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanp79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanp79&layout=compact)](https://github.com/natanp79/github-readme-stats)
 
 
 <div style=´display: inline_block"><br> 
