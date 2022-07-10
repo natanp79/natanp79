@@ -1,5 +1,5 @@
 ### Olá! Eu sou  Natan P. Nascimento,
-desenvolvedor Full-Stack Flutter e criador de conteúdo de aprimoramento profissional (⌐■_■) 
+desenvolvedor Flutter e criador de conteúdo de aprimoramento profissional (⌐■_■) 
 
 
  ##
