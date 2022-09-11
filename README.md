@@ -23,7 +23,8 @@ desenvolvedor Flutter e criador de conte√∫do para aprimoramento profissional (‚å
 <div>                                                                                                                                                                      <a href="natannascimento79@gmail.com"target="_blank"><img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>                              
 </div>                                                                                                                   
                                                                                                                                                     
-  ![Snake animation](https://github.com/natanp79/rafaballerini/blob/output/github-contribution-grid-snake.svg)                                                                                                                                                   
+  ![Snake animation](https://github.com/natanp79/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/natanp79/natanp79/blob/output/github-contribution-grid-snake.svg)         
                                                                                                                                                     
  
   
