@@ -7,7 +7,7 @@ desenvolvedor Flutter e criador de conteúdo para aprimoramento profissional (�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanp79&hide=contribs,issues&count_private=true&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanp79&layout=compact)](https://github.com/natanp79/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanp79&layout=compact)](https://github.com/natanp79/github-readme-stats)
+
 
 <div style=´display: inline_block"><br> 
    <img align="left" alt="Nat-Flutter"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" >
